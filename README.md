@@ -7,7 +7,7 @@ I'm currently working as Data Analyst.
 Right now i'm focused on Machine Learning and taking a part in ML competitions.
 
 <b><a name="My last project">⭐ My last projects:</a><br></b>
-<pre><a href="https://github.com/VladekQ/website_ab_testing/blob/main/ab_test_ctr.ipynb">🆎 Website CTR A/B Testing</a> - A/B testing different versions of webpages in order to increase CTR</pre>
+<pre><a href="https://github.com/egorKr3st/Analysis-of-promotions/blob/main/Analysis_of_the_results_of_promotions_in_the_store.ipynb">🆎 Analysis of promotions in the stores A/B testing</a> - A/B testing of customers purchases during the promotion period</pre>
 
 
 <hr>
